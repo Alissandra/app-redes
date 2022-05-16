@@ -88,14 +88,23 @@ O tráfego pode ser originado ao acessar um site, enviar um e-mail, um comando d
 As camadas de 1 a 3 são encadeadas. os protocolos são trocados entre cada uma das máquinas e seus vizinhos imediatos e não entre as máquinas de origem e destino, que podem estar separadas por muitos roteadores. As camadas 4 a 7 são de ponta a ponta, onde os protocolos trocados são entre a máquina de origem e destino.
 
 # Referência Bibliográfica
+
 Tanenbaum, Andrew S.; Wetherall, David; Redes de computadores; 5. ed. São Paulo: Pearson Prentice Hall, 2011.
+
 Kurose, James F.; Ross , Keith W.; Redes de computadores e a Internet: uma abordagem top-down/; 6. ed. – São Paulo: Pearson Education do Brasil, 2013.
+
 Network, Dante. CCNA. Características da camada física. Disponível em https://ccna.network/caracteristicas-da-camada-fisica/. Acesso em 13 mai. 2022.
+
 Network, Dante. CCNA. Objetivo da camada de link de dados. Disponível em https://ccna.network/objetivo-da-camada-de-link-de-dados/. Acesso em 13 mai. 2022.
+
 Network, Dante. CCNA. Características da Camada de Rede. Disponível em https://ccna.network/caracteristicas-da-camada-de-rede/. Acesso em 13 mai. 2022.
+
 Network, Dante. CCNA. Aplicação, apresentação e sessão. Disponível em https://ccna.network/aplicacao-apresentacao-sessao/. Acesso em 13 mai. 2022.
+
 Fiodevida. As camadas do modelo OSI. 2021. Disponível em https://fiodevida.com/as-camadas-do-modelo-osi-ilustrado/. Acesso em 14 mai. 2022.
+
 Matheus, Yuri. Alura. Conhecendo o modelo OSI. 2018. Disponível em https://www.alura.com.br/artigos/conhecendo-o-modelo-osi. Acesso em 13 mai. 2022.
+
 Antunes, Fábio. Lecker, Guilherme. Lima, Thaina. Trabalhos da disciplina de Redes de Computadores II. Camada de Enlace. Disponível em https://www.gta.ufrj.br/ensino/eel879/trabalhos_vf_2012_2/80211abg/tipos.html. Acesso em 14 mai. 2022.
 
 
