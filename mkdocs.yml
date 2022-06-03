@@ -1,0 +1,11 @@
+site_name: Aplicações de Rede de Computadores
+site_author: Alissandra Cabral & Jurandy Soares
+theme:
+  name: material
+  language: pt
+plugins:
+  - search
+  - mermaid2
+
+
+
